@@ -44,7 +44,7 @@ What I Built - VirtualBox & Networking
 Set up two VMs on an isolated internal network. DC01 has a second NAT adapter for internet access. WS01 only communicates through the internal network, getting all its settings from the server via DHCP - same as a real corporate workstation.
 
 ![VirtualBox VM List](screenshots/01-environment-setup/01-virtualbox-vm-list.png)
-
+<br><br>
 ![DC01 Network Settings](screenshots/01-environment-setup/02-dc01-network-settings.png)
 
 Windows Server - Static IP & Naming
@@ -53,7 +53,7 @@ Configured DC01 with a static IP of 10.0.0.1, DNS pointing to 127.0.0.1 (itself,
 
 
 ![Server Desktop](screenshots/01-environment-setup/03-server-desktop.png)
-
+<br><br>
 ![DC01 Static IP IPConfig](screenshots/01-environment-setup/04-dc01-static-ip-ipconfig.png)
-
+<br><br>
 ![DC01 Renamed System Properties](screenshots/01-environment-setup/05-dc01-renamed-system-properties.png)
